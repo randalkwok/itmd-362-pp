@@ -1,10 +1,9 @@
 $('#contact-info').on('submit',
   function(e) {
-    console.log('The form was submitted.');
     var phone = $('#phone').val();
     var re = /\d{10}/;
     var email = $('#email').val();
-    var re2 = /.*@.*/
+    var re2 = /.*@.*/;
     var validPhone = false;
     var validEmail = false;
     if(re.test(phone))
