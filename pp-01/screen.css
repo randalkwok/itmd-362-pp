@@ -188,7 +188,7 @@ body, .stylelint {
   padding-top: 1.5em;/* 30 / 20 = 1.2 */
 }
 
-#warning {
+#phone-warning, #email-warning {
   padding-left: 1.2em;
   color: red;
 }
