@@ -10,7 +10,7 @@ also practice submitting a pull request.
 you will use to communicate (e.g., your own Basecamp project [NOT the class-wide one], Slack,
 Trello, or something else).
 
-Write the name of the service your group has decided to use:
+Write the name of the service your group has decided to use: Basecamp
 
 2. In your project coordination software of choice, discuss and choose one member who will create
 the free GitHub Organization account for your team. That member can click the + (plus sign) next to
