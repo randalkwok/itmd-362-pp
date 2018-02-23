@@ -22,6 +22,9 @@ Initializing it on GitHub with a `README.md` file is fine, unless you’ve alrea
 on a group member’s computer. **That will be your shared repository for Project 2.**
 
 3. List the names of your group members here:
+		Randal Kwok
+		Sufyan Menk
+		John Paul Aldana
 
 4. Copy and paste the URL for your group’s GitHub organization here:
 
