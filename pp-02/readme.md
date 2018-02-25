@@ -26,7 +26,7 @@ on a group member’s computer. **That will be your shared repository for Projec
 		Sufyan Menk
 		John Paul Aldana
 
-4. Copy and paste the URL for your group’s GitHub organization here:
+4. Copy and paste the URL for your group’s GitHub organization here: https://github.com/CotermCoders
 
 5. Copy and paste the URL for your group’s shared repository here:
 
