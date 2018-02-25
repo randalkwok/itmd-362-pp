@@ -54,4 +54,4 @@ strengths. Add and commit your own work, and push to your own repository (`git p
 repository. Each group member should review the request before it is merged, and then pull from the
 group repository to have a complete, up-to-date `README.md` file.
 
-Write the URL of your pull request here:
+Write the URL of your pull request here: https://github.com/CotermCoders/itmd362-project2/pull/2
