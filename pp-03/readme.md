@@ -19,8 +19,11 @@ color shows aggressiveness and power.
 
 2. An adjacent color palette for announcing springtime tours at the Chicago Botanical Gardens
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=52P0u0kw0w0jyC+oRxVy4oIDfjr
+Your Rationale: It only make sense to go towards the green side of the colour wheel for "spring"
+and "gardens" since green screams nature. Instead of going for a darker green, I went with a lighter
+green because spring is when everything becomes to bloom. The blue in my palette also reflects
+the water that is necessary in any garden.
 
 3. A triadic color palette for styling the login page for an app for kids to learn the alphabet
 
