@@ -11,8 +11,11 @@ Opt for the Paletton Preview mode Default with Text http://paletton.com/
 
 1. A monochromatic color palette for a site introducing a new console gaming platform
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=12P0u0kuqhouUrtt-lZy4aYvP79
+Your Rationale: Since it's a site for something new I wanted to use green as the main color in 
+this monochromatic palette since green can be perceived as new beginnings. Also, I went for 
+a brighter green because consoles these days like to boast performance and having a more neon
+color shows aggressiveness and power.
 
 2. An adjacent color palette for announcing springtime tours at the Chicago Botanical Gardens
 
