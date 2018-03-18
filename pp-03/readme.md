@@ -27,8 +27,11 @@ the water that is necessary in any garden.
 
 3. A triadic color palette for styling the login page for an app for kids to learn the alphabet
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=31R0X0kwi++bu++hX++++rd++kX
+Your Rationale: I went for a base color of yellow because it's a happier color. Also when it is softer,
+it can be calming, a good property for an app for kids. Naturally, the 2 other colors in this triadic palette
+is blue and red. Blue is another calm color while red is a bit stronger, but it can be used to direct attention.
+Overall, I chose brighter, happier colors to show that learning can be fun.
 
 4. A custom color palette for advertising a course on cybersecurity
 
