@@ -35,5 +35,8 @@ Overall, I chose brighter, happier colors to show that learning can be fun.
 
 4. A custom color palette for advertising a course on cybersecurity
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=b3H3e4c0kw0w0jyC+oRxVy4oIDfjr
+Your Rationale: When I think of cybersecurity, I think of the cliche green monospace font source code
+on a black background, but I want to go with more sophisticated colors. A soft blue shows a more
+tech oriented feel without using green. I actually ended up going towards a semi adjacent color palette
+using a blue-green and blue-violet to give my palette accents to choose from.
