@@ -27,11 +27,18 @@ Small commits to your Production Problems repository that include:
 2) an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guidline One (URL):
-* How you implemented it in your sketch:
+* HCI Guideline One (URL): https://material.io/guidelines/layout/structure.html#structure-app-bar
+* How you implemented it in your sketch: Although this is a website, this "app bar" is also commonly
+used on Google's websites as well. So I took this idea and included an app bar on my sketch only using
+a title, a sandwich side navigation button and a question mark icon on the upper right since that's where
+the options button/icons are usually for Android.
 
-* HCI Guidline Two (URL):
-* How you implemented it in your sketch:
+* HCI Guideline Two (URL): https://material.io/guidelines/patterns/navigation-drawer.html
+* How you implemented it in your sketch: One of the main problems with the myiit website right now is
+how everything is cluttered up on the website. There are defined sections, but everything is still stuck together.
+So I decided to go with Android's common, but effective side navigation drawer to put all the cluttered info
+on to their own little section. I didn't sketch each and every page, but it will simply be the info on the myiit 
+website.
 
-* HCI Guidline Three (URL):
+* HCI Guideline Three (URL):
 * How you implemented it in your sketch:
