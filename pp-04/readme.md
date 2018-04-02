@@ -40,5 +40,8 @@ So I decided to go with Android's common, but effective side navigation drawer t
 on to their own little section. I didn't sketch each and every page, but it will simply be the info on the myiit 
 website.
 
-* HCI Guideline Three (URL):
-* How you implemented it in your sketch:
+* HCI Guideline Three (URL): https://material.io/guidelines/components/text-fields.html
+* How you implemented it in your sketch: The main thing students use the myiit login page for is of course 
+the login. That is why I made it the main focus on my sketch. I followed Google's guideline on the text input
+field which means it must be identifiable, findable, and legible. Their unique style is to use a simple input line
+which I used in my sketch. I made sure there is plenty of room for the user to touch the input fields.
