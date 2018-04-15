@@ -20,13 +20,13 @@ your own master usability checklist.
 
 * Your own condensed, ten-item must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. Site is responsive.
+2. Form simplicity. Only absolutely necessary questions are asked in forms.
+3. Contrast. There is adequate contrast between the text and background.
+4. Minimize steps
+5. Pages aren't cluttered. There is enough white space to support scanning.
+6. Accessible navigation. Site can be navigated with a keyboard, without using a mouse. 
+7. Important commands are displayed as buttons, not links.
+8. Browser compatibility. Site works in various browsers.
+9. Navigation is consistent on every page.
+10. Form submission is confirmed, so that the user knows data was successfully sent.
